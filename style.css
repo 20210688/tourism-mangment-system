@@ -1,0 +1,55 @@
+body{
+    padding:50px;
+    background-image: url(./imgs/Types-of-Tourism-in-Egypt-Egypt-Tours-Portal.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:135%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    font-family: 'Playfair Display', serif;
+}
+.contianer0
+{
+    max-width: 500px;
+     margin:5% auto;
+}
+.container{
+    max-width: 500px;
+    /* margin:0 auto; */
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: grid;
+    /* justify-content: center; */
+    background-color: #ffffff2d;;
+}
+.form-group{
+    margin-bottom:30px;
+    border-radius: 25px;
+    border:0.1px solid #ffffff00;
+    
+}
+.btn
+{
+    background-color: #e2a75a;
+    color: #fff;
+    border-radius: 25px;
+    width: 20ex;
+    height: 5ex;
+    border: 1px solid #e2a75a;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.form-control
+{
+    background-color: #F2F7FF;
+    border: 1px solid #E6BE8A;
+    border-radius: 25px;
+}
+
+.linkHandle
+{
+
+    text-decoration: none;
+    color:#fff;
+    font-size:large;
+}
